@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/modin-project/modin/commit/7ca200b08597ed6ecfd2db2d08bd322f83c2cec1",
       "git:hexsha": "7ca200b08597ed6ecfd2db2d08bd322f83c2cec1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T16:11:50.267199+00:00"
     },
     {
       "@id": "https://repolex.ai/r/modin-project/modin/commit/cf259f1cd38c70e246fd5e3ea904b675a5d10bd9",
